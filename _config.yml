@@ -36,7 +36,10 @@ theme: minima
 plugins:
   - jekyll-feed
  
-
+header_pages:
+   - 1.md
+   - bloglist.md
+   - about.markdown
   
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: 21st Century Business Blog
 layout: blog
 ---
-This is content
+
