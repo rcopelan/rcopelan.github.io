@@ -38,7 +38,7 @@ plugins:
  
 header_pages:
    - 1.md
-   - bloglist.md
+   - bloglist.markdown
    - about.markdown
   
 # Exclude from processing.
