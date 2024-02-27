@@ -3,5 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: homecopelan
-title:  copelan.com
---- 
+title:  Musings of Robert Copelan
+---
+<h2> </h2>

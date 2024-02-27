@@ -37,7 +37,6 @@ plugins:
   - jekyll-feed
  
 header_pages:
-   - 1.md
    - bloglist.markdown
    - about.markdown
   
